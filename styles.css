@@ -40,6 +40,18 @@ img{
     background-color: rgb(94, 0, 0);
 }
 
+nav a {
+    background-color: grey;
+    max-height: 1em;
+    color: white;
+    padding: 1em;
+    border-radius: 0.5em;
+}
+
+nav a:hover{
+    background-color: rgb(53, 53, 53);
+}
+
 a {
 
     text-decoration: none;
