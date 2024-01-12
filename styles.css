@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 5em;
+    background-color: #000000;
+}
+
+.encadre {
+    background-color: white;
+    border-radius: 3em;
+    padding: 2em;
+    border: 1px solid black;
+    box-shadow: 0em 0em 1em 1em white;
+    width: fit-content;
+}
+
+#exampleBorder{
+    margin: 3em;
+    border: 1px solid black;
+    border-radius: 2em;
+    padding: 1em;
+    background-color: rgb(44, 73, 136);
+}
+img{
+    border-radius: 1em;
+    border: 1px solid black;
+}
+
+
+
+.bouton{
+    background-color: red;
+    max-height: 1em;
+    color: white;
+    margin-left: 300px;
+    padding: 1em;
+    border-radius: 0.5em;
+}
+
+.bouton:hover{
+    background-color: rgb(94, 0, 0);
+}
+
+a {
+
+    text-decoration: none;
+}
